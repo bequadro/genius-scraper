@@ -6,7 +6,7 @@ Uses [LyricsGenius](https://github.com/johnwmillr/LyricsGenius) and [EyeD3](http
 
 ## Usage
 
-Create a Client Access Token on [Genius](https://genius.com/api-clients) and store it i a file called `api.key`.
+Create a Client Access Token on [Genius](https://genius.com/api-clients) and store it in a file called `api.key`.
 
 `python3 genius.py %FOLDERNAME%`
 
